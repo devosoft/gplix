@@ -30,3 +30,9 @@
 
 # Other
 *.
+
+#dsym 
+*.dSYM
+gplix
+gplix.js
+*.js.map
