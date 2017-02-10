@@ -33,6 +33,9 @@
 
 #dsym 
 *.dSYM
+
+#GPlix-specific
 gplix
 gplix.js
 *.js.map
+*.js.mem
